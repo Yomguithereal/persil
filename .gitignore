@@ -1,0 +1,13 @@
+__pycache__
+.DS_Store
+.ruff_cache
+.pytest_cache
+.python-version
+.vscode
+.tox
+*.pyx
+*.pyc
+*.egg-info
+
+build
+dist

@@ -1,0 +1,6 @@
+# Dev Dependencies
+black
+ruff
+pytest
+twine
+wheel
